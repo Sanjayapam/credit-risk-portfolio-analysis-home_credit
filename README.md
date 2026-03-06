@@ -1,78 +1,48 @@
-Credit Risk Portfolio Analysis
+**Credit Risk Portfolio Analysis**
+_link dashboard _:_https://app.powerbi.com/view?r=eyJrIjoiOWViZGNhMjQtYTdkZC00MGMxLWE4NDMtODA4ZWU2NzRhMzU5IiwidCI6IjllMmViN2RhLTgyZDItNDc0Zi1iZTY2LTJlOTJiNmMwYjliYyIsImMiOjEwfQ%3D%3D_
 
 End-to-end credit risk analytics project that simulates a real-world portfolio monitoring framework used by consumer finance companies.
-
 This project analyzes borrower characteristics, credit exposure, and portfolio risk indicators to produce actionable insights for executives.
 The analysis replicates a Credit Risk Portfolio Review that would typically be presented to senior management such as a Chief Risk Officer (CRO) or CEO.
-
 The project integrates SQL, Power Query, DAX, and Power BI to transform raw credit data into an executive-level dashboard and risk insights.
-
 Project Objective
+- The objective of this project is to:
+- Analyze borrower demographic and financial profiles
+- Monitor portfolio risk indicators
+- Identify potential credit risk signals
+- Provide insights for risk mitigation strategies
+  evelop an executive-level dashboard for portfolio monitoring
 
-The objective of this project is to:
-
-Analyze borrower demographic and financial profiles
-
-Monitor portfolio risk indicators
-
-Identify potential credit risk signals
-
-Provide insights for risk mitigation strategies
-
-Develop an executive-level dashboard for portfolio monitoring
-
-Business Context
-
+**Business Context**
 Consumer finance institutions must continuously monitor their loan portfolio to ensure credit quality and financial sustainability.
-
 Risk teams typically track:
-
 Portfolio at Risk (PAR)
-
 Default Rate
-
 Debt Burden
-
 Borrower demographic concentration
-
 Asset ownership and financial stability
-
 This project simulates a risk monitoring process used in companies such as consumer finance or lending platforms.
-
 Project Framework
-
 The analysis follows a structured analytical workflow:
-
 Credit Risk Portfolio Analysis
-
-Business Understanding
+**Business Understanding**
 Data Preparation
 Feature Engineering
 Risk Metrics Development
 Dashboard Development
 Risk Insights Generation
 Business Recommendations
-
 This framework reflects how a real credit risk analytics workflow would operate inside a financial institution.
-
-Data Preparation
-
+**
+Data Preparation**
 The dataset was cleaned and transformed using Power Query and SQL.
-
 Key preprocessing steps include:
-
 Handling missing values
-
-Standardizing categorical variables
-
+Standardiing categorical variables
 Creating derived risk indicators
-
-Data type normalization
-
+Data ype normalization
 Filtering unrealistic or anomalous values
-
 Example transformations:
-
 Age calculation
 
 Vehicle age calculation
