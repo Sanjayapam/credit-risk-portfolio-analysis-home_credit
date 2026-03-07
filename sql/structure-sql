@@ -1,0 +1,16 @@
+RAW TABLE
+(train, bureau, installments_clean)
+        ↓
+Data Cleaning & Feature Engineering
+(CTE base)
+        ↓
+External Credit Aggregation
+(CTE slik)
+        ↓
+Payment Behaviour Aggregation
+(CTE installment)
+        ↓
+Feature Join + Risk Metrics
+(Final SELECT)
+        ↓
+VIEW / DATASET UNTUK POWER BI
