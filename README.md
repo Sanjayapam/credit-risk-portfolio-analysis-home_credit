@@ -6,6 +6,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOWViZGNhMjQtYTdkZC00MGMxLWE4NDMtODA4ZWU2N
 **Project Framework (CRISP-DM)**
 
 **1️⃣ Business Understanding**
+
 **Tujuan project:**
 Menganalisis risiko kredit pada portofolio pinjaman konsumen untuk:
 memonitor kesehatan portofolio
