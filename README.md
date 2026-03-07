@@ -1,9 +1,9 @@
 **Credit Risk Portfolio Analysis**
 
-_link dashboard _:https://app.powerbi.com/view?r=eyJrIjoiOWViZGNhMjQtYTdkZC00MGMxLWE4NDMtODA4ZWU2NzRhMzU5IiwidCI6IjllMmViN2RhLTgyZDItNDc0Zi1iZTY2LTJlOTJiNmMwYjliYyIsImMiOjEwfQ%3D%3D
+**_link dashboard_**: https://app.powerbi.com/view?r=eyJrIjoiOWViZGNhMjQtYTdkZC00MGMxLWE4NDMtODA4ZWU2NzRhMzU5IiwidCI6IjllMmViN2RhLTgyZDItNDc0Zi1iZTY2LTJlOTJiNmMwYjliYyIsImMiOjEwfQ%3D%3D
+
+
 End-to-end credit risk analytics project that simulates a real-world portfolio monitoring framework used by consumer finance companies.
-
-
 This project analyzes borrower characteristics, credit exposure, and portfolio risk indicators to produce actionable insights for executives.
 The analysis replicates a Credit Risk Portfolio Review that would typically be presented to senior management such as a Chief Risk Officer (CRO) or CEO.
 The project integrates SQL, Power Query, DAX, and Power BI to transform raw credit data into an executive-level dashboard and risk insights.
